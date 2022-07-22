@@ -1,4 +1,4 @@
-# SpaceX Rocket Eruption Predictive Model 🚀
+# Lead Prediction for on-line courses 👩‍🎓
 
 ## Presentation of the chosen data set: 
 
